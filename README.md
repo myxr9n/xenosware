@@ -1,4 +1,4 @@
-# :apple: Tim Apple
+# :apple: Rifk7.cc
 CS2 external cheat
 
 ![Preview](screenshots/preview.png)
