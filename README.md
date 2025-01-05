@@ -1,11 +1,12 @@
 <h1 align="center">
-  :apple: XenosWare.cc
+ ## :apple: XenosWare.cc
 </h1>
 
 ![](https://github.com/myxr9n/xenosware/blob/main/ignore.gif)
+<h1 align="center">
+  [Download](https://github.com/myxr9n/xenosware/releases/tag/Release)
+</h1>
 
-CS2 external cheat
-                  [Download](https://github.com/myxr9n/xenosware/releases/tag/Release)
 ## Usage
 *The cheat will **NOT** start if the game is not running.*
 ### Controls
