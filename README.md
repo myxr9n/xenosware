@@ -1,4 +1,4 @@
-# :apple: Rifk7.cc
+# :apple: XenosWare.cc
 CS2 external cheat
 
 ## Usage
