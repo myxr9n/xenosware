@@ -3,7 +3,7 @@
 ![](https://github.com/myxr9n/xenosware/blob/main/ignore.gif)
 
 CS2 external cheat
-
+                  [Download](https://github.com/myxr9n/xenosware/releases/tag/Release)
 ## Usage
 *The cheat will **NOT** start if the game is not running.*
 ### Controls
