@@ -1,5 +1,5 @@
 <h1 align="center">
-  # :apple: XenosWare.cc
+  :apple: XenosWare.cc
 </h1>
 
 ![](https://github.com/myxr9n/xenosware/blob/main/ignore.gif)
