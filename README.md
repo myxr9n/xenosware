@@ -6,7 +6,7 @@
 [Download](https://github.com/myxr9n/xenosware/releases/download/V1.1.0/xenosware.cc.zip)
 
 ## Usage
-*The cheat will **NOT** start if the game is not running.*
+*The cheat will **NOT** start if the game is running.*
 ### Controls
 Press the `INSERT` key to toggle the menu.     
 Press the `END` key to end the cheat.
