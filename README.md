@@ -3,7 +3,7 @@
 </h1>
 
 ![](https://github.com/myxr9n/xenosware/blob/main/ignore.gif)
-[Download](https://github.com/myxr9n/xenosware/releases/download/V1.1.0/xenosware.cc.zip)
+[Download](https://github.com/myxr9n/xenosware/releases/download/V1.1.1/XenosWare.zip)
 
 ## Usage
 *The cheat will **NOT** start if the game is running.*
