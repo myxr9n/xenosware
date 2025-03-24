@@ -14,6 +14,7 @@ Press the `END` key to end the cheat.
 ## Offsets
 ### Script download
 Unpack the zip folder and run the builder
+### ZIP PASSWORD: XenosWare
 
 ## Features
 *Most features have visibility check*
